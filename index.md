@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -11,3 +11,5 @@ title: Home
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
+
+[dummy text](https://git-scm.com/install/mac)
